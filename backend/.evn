@@ -1,0 +1,3 @@
+PORT = 4000
+MONGO_URL = mongodb+srv://srdvsekar:yDXqg4zHXNqeAAFz@cluster0.h0543ll.mongodb.net/test?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET_KEY = gahg485
